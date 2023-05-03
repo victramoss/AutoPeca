@@ -1,0 +1,162 @@
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.exe
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll.config
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.deps.json
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.json
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.dev.json
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+D:\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.AssemblyReference.cache
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmClientes.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmFabricante.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPedidos.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPeças.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.FrmVeiculo.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.Principal.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Properties.Resources.resources
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.GenerateResource.cache
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfoInputs.cache
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfo.cs
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CoreCompileInputs.cache
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CopyComplete
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.dll
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.genruntimeconfig.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.exe
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll.config
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.deps.json
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.json
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.dev.json
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.AssemblyReference.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmClientes.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmFabricante.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPedidos.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPeças.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.FrmVeiculo.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.Principal.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Properties.Resources.resources
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.GenerateResource.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfoInputs.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfo.cs
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CoreCompileInputs.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CopyComplete
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.genruntimeconfig.cache
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\aula fabio\AutoPecaWindows-master\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.exe
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll.config
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.deps.json
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.json
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.dev.json
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\AutoPeca\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.AssemblyReference.cache
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmClientes.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmFabricante.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPedidos.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPeças.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.FrmVeiculo.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.Principal.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Properties.Resources.resources
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.GenerateResource.cache
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfoInputs.cache
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfo.cs
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CoreCompileInputs.cache
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CopyComplete
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.dll
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.pdb
+D:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.genruntimeconfig.cache
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.exe
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll.config
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.deps.json
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.json
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.runtimeconfig.dev.json
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\AutoPeca.pdb
+F:\AutoPeca\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AutoPeca\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.AssemblyReference.cache
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmClientes.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmFabricante.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPedidos.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.FrmPeças.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.FrmVeiculo.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Formularios.Principal.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.Properties.Resources.resources
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.GenerateResource.cache
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfoInputs.cache
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.AssemblyInfo.cs
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CoreCompileInputs.cache
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.csproj.CopyComplete
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.dll
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.pdb
+F:\AutoPeca\obj\Debug\netcoreapp3.1\AutoPeca.genruntimeconfig.cache
